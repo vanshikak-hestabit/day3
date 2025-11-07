@@ -1,1 +1,1 @@
-This is file4, and it has a BUG
+This is file4, and it had a BUG but it is fixed now.
